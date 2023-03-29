@@ -29,7 +29,7 @@ Which of the following technologies is being described in the above statement? S
 - [ ] Unity Catalog
 - [ ] Delta Lake
 
-4)Which of the following is a common problem within a data lake architecture that can be easily solved by using the Databricks Lakehouse Platform? Select three responses.
+4) Which of the following is a common problem within a data lake architecture that can be easily solved by using the Databricks Lakehouse Platform? Select three responses.
 
 - [ ] Lack of ACID transaction support
 - [ ] Ineffective partitioning
@@ -153,7 +153,7 @@ Which of the following is a consequence of using Unity Catalog to manage, organi
 - [ ] Catalogs exist within schemas (databases)
 - [ ] Table metadata is required
 
-19)In the past, a lot of data engineering resources needed to be contributed to the development of tooling and other mechanisms for creating and managing data workloads. In response, Databricks developed and released a declarative ETL framework so data engineers can focus on helping their organizations get value from their data
+19) In the past, a lot of data engineering resources needed to be contributed to the development of tooling and other mechanisms for creating and managing data workloads. In response, Databricks developed and released a declarative ETL framework so data engineers can focus on helping their organizations get value from their data
 Which of the following technologies is being described above? Select one response.
 
 - [ ] Databricks SQL Queries
